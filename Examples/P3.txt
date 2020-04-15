@@ -1,0 +1,24 @@
+R North_America Roman_Empire Korea Sutton_Hoo_and_Europe_AD_300-1100 Japan
+C Roman_Empire,Sutton_Hoo_and_Europe_AD_300-1100 Sutton_Hoo_and_Europe_AD_300-1100,Korea Roman_Empire,Japan Sutton_Hoo_and_Europe_AD_300-1100,Japan Sutton_Hoo_and_Europe_AD_300-1100,North_America
+S S01:Japan:0.959980:0.157177 S02:Korea:0.779187:0.259903 S03:Korea:0.948303:0.137528
+M S01:F S02:F
+M S01:F S02:F S03:F
+M S01:F
+M S02:F S03:F
+M S01:F S02:F S03:F
+M S01:F S03:F
+M S01:F S02:T S03:F
+M S01:F S02:T S03:F
+M S01:F S02:F S03:F
+M S02:F S03:F
+M S03:F
+M S01:T S02:F S03:F
+M S01:F S03:F
+M S01:F S02:F S03:F
+M S01:F S02:F
+M S01:F S02:F S03:F
+M S02:F S03:F
+M S01:F S03:F
+M S01:F S02:T S03:F
+M S01:T S02:F S03:F
+P 0.200000

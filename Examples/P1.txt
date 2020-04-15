@@ -1,0 +1,5 @@
+R Greek_and_Roman_architecture Greece_Parthenon
+C Greece_Parthenon,Greek_and_Roman_architecture
+S S01:Greek_and_Roman_architecture:0.601845:0.100209
+M S01:F
+P 0.500000

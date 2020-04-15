@@ -1,0 +1,8 @@
+R Greece_Parthenon Greek_and_Roman_sculpture Assyria_Nimrud Money China_and_South_Asia Japan Egyptian_life_and_death_the_tomb-chapel_of_Nebamun Egypt_and_Nubia
+C Egypt_and_Nubia,Greece_Parthenon China_and_South_Asia,Assyria_Nimrud China_and_South_Asia,Greece_Parthenon Egypt_and_Nubia,Egyptian_life_and_death_the_tomb-chapel_of_Nebamun Egyptian_life_and_death_the_tomb-chapel_of_Nebamun,Money Egyptian_life_and_death_the_tomb-chapel_of_Nebamun,China_and_South_Asia Egypt_and_Nubia,Greek_and_Roman_sculpture Greece_Parthenon,Japan Assyria_Nimrud,Egypt_and_Nubia Japan,Egyptian_life_and_death_the_tomb-chapel_of_Nebamun Egypt_and_Nubia,Japan Japan,Assyria_Nimrud
+S S01:Greek_and_Roman_sculpture:0.847789:0.209874 S02:Egyptian_life_and_death_the_tomb-chapel_of_Nebamun:0.702385:0.040473 S03:Egypt_and_Nubia:0.694391:0.391588
+M S01:F S02:F S03:F
+M S02:F S03:T
+M S03:F
+M S02:T S03:F
+P 0.500000

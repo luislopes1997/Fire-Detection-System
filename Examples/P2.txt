@@ -1,0 +1,8 @@
+R Greeks_in_Italy Japan Greek_and_Roman_sculpture Europe_and_Middle_East_10000-800_BC Assyria_Khorsabad
+C Greek_and_Roman_sculpture,Japan Greeks_in_Italy,Greek_and_Roman_sculpture Japan,Greeks_in_Italy Greek_and_Roman_sculpture,Europe_and_Middle_East_10000-800_BC Europe_and_Middle_East_10000-800_BC,Assyria_Khorsabad
+S S01:Europe_and_Middle_East_10000-800_BC:0.831482:0.267593 S02:Japan:0.945984:0.350994 S03:Greek_and_Roman_sculpture:0.998486:0.292782
+M S01:F S02:T S03:F
+M S01:F S02:T
+M S01:T S03:T
+M S01:T S02:T S03:T
+P 0.500000
